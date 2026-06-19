@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/iteng007-v2ex-mcp-server-badge.png)](https://mseep.ai/app/iteng007-v2ex-mcp-server)
+
 # V2EX MCP Server
 
 通过 MCP (Model Context Protocol) 协议访问 V2EX API 的服务器。
